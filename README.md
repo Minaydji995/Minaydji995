@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**Minaydji995/Minaydji995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Minaydji Djenika 
 
-Here are some ideas to get you started:
+- Estou estudando na ETEC
+- Estou fazendo curso de Eletrônica
+- Utilizo esse espaço por curiosidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+minaydjidjenikaantoine@gmail.com
+
+mihh_265
+
+![](https://media1.tenor.com/m/H4hl0RQOsVQAAAAC/iceage-possum.gif)
